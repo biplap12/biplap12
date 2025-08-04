@@ -2,9 +2,9 @@
 <h3 align="center">A passionate frontend developer from Nepal.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biplap12&label=Profile%20views&color=0e75b6&style=flat" alt="biplap12" /> </p>
 
-- 🌱 I’m currently learning **Next.js.**
+- 🌱 I’m currently learning **NextJS**
 
-- 📫 How to reach me **biplap.neupane2020@gmail.com**
+- 📫 How to reach me **contact@biplapneupane.com.np**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
